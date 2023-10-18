@@ -1,0 +1,1 @@
+from .hotdeal import HotdealModel
